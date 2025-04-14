@@ -1,4 +1,4 @@
-# Coding foundation
+# UBCx HtC1x How to Code: Simple Data
 Software development foundation
 
 In this repository I will push all the exercises and practices of this program, organized in folders. 
